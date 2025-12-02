@@ -13,6 +13,7 @@ MongoDB Schema Sample
 Deployment steps </br>
 1 Add envirnoment varaiables like DATABASE_URL, CLIENT_URL, BE_URL </br>
 2 run below commands for FrontEnd deployment </br> cd client </br> npm install </br> npm run dev </br>
-3 run below commands for BackEnd deployment </br> cd API </br> npm install </br> npm run dev </br>
+3 run below commands for the BackEnd deployment </br> cd API </br> npm install </br> npm run dev </br>
 
 Tech Stack => Prisma ORM, leaflet (Maps), react-router-dom
+
