@@ -1,3 +1,4 @@
+//updating post controller for the project
 import prisma from "../lib/prisma.js";
 
 export const getPosts = async (req, res) => {
