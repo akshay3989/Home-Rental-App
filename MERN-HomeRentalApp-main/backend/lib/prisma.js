@@ -4,7 +4,7 @@ const prisma = new PrismaClient();
 
 async function checkPrismaConnection() {
     try {
-      // Try to fetch a post or any other model you have
+      // Trying to fetch a post or any other model you have
       const post = await prisma.post.findFirst(); 
   
       if (post) {
